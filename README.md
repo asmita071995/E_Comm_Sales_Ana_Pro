@@ -6,10 +6,15 @@ This project focuses on analyzing sales and profit data to uncover insights and 
 The goal is to assist businesses in understanding their sales performance, identifying profitable areas, and making data-driven decisions for improvement.
 
 **Key Features**
-**Data Preprocessing:** The dataset was cleaned and transformed, handling missing values and ensuring data consistency.
+**Data Preprocessing:** The dataset was cleaned and transformed, handling missing values and ensuring data 
+consistency.
+
 **Sales Analysis:**  Visualized sales performance by month, category, and sub-category using various charts (line, pie, and bar).
+
 **Profit Analysis:**  Analyzed profit trends similar to the sales analysis and identified areas of high or low profit.
+
 **Customer Segment Insights:** Compared sales and profit across different customer segments and calculated the Sales to Profit Ratio for each segment.
+
 **Project Steps**
  
 **Data Loading & Preprocessing:**
