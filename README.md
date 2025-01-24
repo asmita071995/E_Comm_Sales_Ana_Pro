@@ -1,5 +1,7 @@
 **Sales and Profit Analysis Project**
+
 **Overview**
+
 This project focuses on analyzing sales and profit data to uncover insights and trends across various dimensions such as time, category, and customer segments. 
 The goal is to assist businesses in understanding their sales performance, identifying profitable areas, and making data-driven decisions for improvement.
 
@@ -14,7 +16,8 @@ The goal is to assist businesses in understanding their sales performance, ident
 
 Loaded the sales dataset and performed necessary cleaning steps.
 Processed data by grouping and aggregating based on Month, Category, Sub-Category, and Segment.
-Sales and Profit Trend Analysis:
+
+**Sales and Profit Trend Analysis:**
 
 Created visualizations for monthly sales and profit trends using line charts.
 Analyzed the sales and profit breakdown by category and sub-category using pie and bar charts.
@@ -22,6 +25,7 @@ Analyzed the sales and profit breakdown by category and sub-category using pie a
 **Sales-to-Profit Efficiency:**
 
 Calculated the Sales to Profit Ratio to assess how efficiently sales generate profit across different segments.
+
 **Visualization & Insights:**
 
 Generated interactive visualizations using Plotly to make the data more accessible and insightful.
